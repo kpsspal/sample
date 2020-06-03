@@ -20,7 +20,7 @@ goto last
 
 git add --all
 git commit -m "filename"
-git push https://kpsspal:Krishna%40%231988@github.com/kpsspal/sample.git master
+git push https://kpsspal:Krishna%%40%%231988@github.com/kpsspal/sample.git master
 
 :last
 pause
